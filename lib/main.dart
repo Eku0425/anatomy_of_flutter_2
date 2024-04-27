@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 
-// todo quick stater red & white:-
+
 
 
 
@@ -237,7 +237,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 
-// todo quick statrer rich text:-
+
 
 
 
